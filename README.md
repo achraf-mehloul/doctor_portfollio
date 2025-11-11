@@ -15,9 +15,10 @@ This website serves as a simple, clean, and modern landing page template to show
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- Tailwind CSS  
-- JavaScript (for light/dark mode toggle and animations)  
+- React 18 with TypeScript  
+- Vite as the build tool  
+- Tailwind CSS for styling  
+- JavaScript and TypeScript for interactivity and animations  
 - CSS 3D transforms and effects  
 
 ---
@@ -28,8 +29,15 @@ This website serves as a simple, clean, and modern landing page template to show
    ```bash
    git clone https://github.com/achraf-mehloul/doctor_portfollio.git
    ```  
-2. Open `index.html` in your web browser to preview the site.  
-3. Customize the files as needed to fit your requirements.
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```  
+3. Start the development server:  
+   ```bash
+   npm run dev
+   ```  
+4. Open your browser to the local address shown (usually http://localhost:5173).
 
 ---
 
